@@ -7,7 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		60108C5F2A57EFA5003B2285 /* Maximum Product Subarray(152).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C5E2A57EFA5003B2285 /* Maximum Product Subarray(152).swift */; };
+		60108C612A57F685003B2285 /* Product of Array Except Self(238).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C602A57F685003B2285 /* Product of Array Except Self(238).swift */; };
+		60108C632A57FAA9003B2285 /* Maximum Subarray(53).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C622A57FAA9003B2285 /* Maximum Subarray(53).swift */; };
+		60108C652A57FEF4003B2285 /* Find Minimum in Rotated Sorted Array(153).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C642A57FEF4003B2285 /* Find Minimum in Rotated Sorted Array(153).swift */; };
+		60108C672A5804CC003B2285 /* Search in Rotated Sorted Array(33).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C662A5804CC003B2285 /* Search in Rotated Sorted Array(33).swift */; };
+		60108C692A58057E003B2285 /* Container With Most Water(11).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C682A58057E003B2285 /* Container With Most Water(11).swift */; };
+		60108C6B2A5808CE003B2285 /* 3Sum(15).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C6A2A5808CE003B2285 /* 3Sum(15).swift */; };
+		60108C702A580BA0003B2285 /* Climbing Stairs(70).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C6F2A580BA0003B2285 /* Climbing Stairs(70).swift */; };
+		60108C722A580BD5003B2285 /* Coin Change(322).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C712A580BD5003B2285 /* Coin Change(322).swift */; };
+		60108C742A580C02003B2285 /* Longest Increasing Subsequence(300).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C732A580C02003B2285 /* Longest Increasing Subsequence(300).swift */; };
+		60108C762A580C45003B2285 /* Longest Common Subsequence(1143).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C752A580C45003B2285 /* Longest Common Subsequence(1143).swift */; };
+		60108C7B2A580DB3003B2285 /* Clone Graph(133).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C7A2A580DB3003B2285 /* Clone Graph(133).swift */; };
+		60108C7D2A580DE8003B2285 /* Course Schedule(207).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C7C2A580DE8003B2285 /* Course Schedule(207).swift */; };
+		60108C7F2A580E12003B2285 /* Pacific Atlantic Water Flow(417).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C7E2A580E12003B2285 /* Pacific Atlantic Water Flow(417).swift */; };
+		60108C812A580E3E003B2285 /* Number of Islands(200).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C802A580E3E003B2285 /* Number of Islands(200).swift */; };
+		60108C832A580E65003B2285 /* Longest Consecutive Sequence(128).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60108C822A580E65003B2285 /* Longest Consecutive Sequence(128).swift */; };
 		60403F392A560D770028F513 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60403F382A560D770028F513 /* main.swift */; };
+		60403F412A560FE60028F513 /* TwoSum(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60403F402A560FE60028F513 /* TwoSum(1).swift */; };
+		60403F432A561ADB0028F513 /* BestTimeToBuyAndSellStock(121).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60403F422A561ADB0028F513 /* BestTimeToBuyAndSellStock(121).swift */; };
+		60403F452A5622850028F513 /* ContainsDuplicate(217).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60403F442A5622850028F513 /* ContainsDuplicate(217).swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +42,27 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		60108C5E2A57EFA5003B2285 /* Maximum Product Subarray(152).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Product Subarray(152).swift"; sourceTree = "<group>"; };
+		60108C602A57F685003B2285 /* Product of Array Except Self(238).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Product of Array Except Self(238).swift"; sourceTree = "<group>"; };
+		60108C622A57FAA9003B2285 /* Maximum Subarray(53).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Subarray(53).swift"; sourceTree = "<group>"; };
+		60108C642A57FEF4003B2285 /* Find Minimum in Rotated Sorted Array(153).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find Minimum in Rotated Sorted Array(153).swift"; sourceTree = "<group>"; };
+		60108C662A5804CC003B2285 /* Search in Rotated Sorted Array(33).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Search in Rotated Sorted Array(33).swift"; sourceTree = "<group>"; };
+		60108C682A58057E003B2285 /* Container With Most Water(11).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Container With Most Water(11).swift"; sourceTree = "<group>"; };
+		60108C6A2A5808CE003B2285 /* 3Sum(15).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3Sum(15).swift"; sourceTree = "<group>"; };
+		60108C6F2A580BA0003B2285 /* Climbing Stairs(70).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Climbing Stairs(70).swift"; sourceTree = "<group>"; };
+		60108C712A580BD5003B2285 /* Coin Change(322).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Coin Change(322).swift"; sourceTree = "<group>"; };
+		60108C732A580C02003B2285 /* Longest Increasing Subsequence(300).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Longest Increasing Subsequence(300).swift"; sourceTree = "<group>"; };
+		60108C752A580C45003B2285 /* Longest Common Subsequence(1143).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Longest Common Subsequence(1143).swift"; sourceTree = "<group>"; };
+		60108C7A2A580DB3003B2285 /* Clone Graph(133).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Clone Graph(133).swift"; sourceTree = "<group>"; };
+		60108C7C2A580DE8003B2285 /* Course Schedule(207).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Course Schedule(207).swift"; sourceTree = "<group>"; };
+		60108C7E2A580E12003B2285 /* Pacific Atlantic Water Flow(417).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pacific Atlantic Water Flow(417).swift"; sourceTree = "<group>"; };
+		60108C802A580E3E003B2285 /* Number of Islands(200).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Islands(200).swift"; sourceTree = "<group>"; };
+		60108C822A580E65003B2285 /* Longest Consecutive Sequence(128).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Longest Consecutive Sequence(128).swift"; sourceTree = "<group>"; };
 		60403F352A560D770028F513 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		60403F382A560D770028F513 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		60403F402A560FE60028F513 /* TwoSum(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TwoSum(1).swift"; sourceTree = "<group>"; };
+		60403F422A561ADB0028F513 /* BestTimeToBuyAndSellStock(121).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BestTimeToBuyAndSellStock(121).swift"; sourceTree = "<group>"; };
+		60403F442A5622850028F513 /* ContainsDuplicate(217).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContainsDuplicate(217).swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +76,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		60108C6C2A580ABB003B2285 /* Dynamic Programming */ = {
+			isa = PBXGroup;
+			children = (
+				60108C6F2A580BA0003B2285 /* Climbing Stairs(70).swift */,
+				60108C712A580BD5003B2285 /* Coin Change(322).swift */,
+				60108C732A580C02003B2285 /* Longest Increasing Subsequence(300).swift */,
+				60108C752A580C45003B2285 /* Longest Common Subsequence(1143).swift */,
+			);
+			path = "Dynamic Programming";
+			sourceTree = "<group>";
+		};
+		60108C792A580DA1003B2285 /* Graph */ = {
+			isa = PBXGroup;
+			children = (
+				60108C7A2A580DB3003B2285 /* Clone Graph(133).swift */,
+				60108C7C2A580DE8003B2285 /* Course Schedule(207).swift */,
+				60108C7E2A580E12003B2285 /* Pacific Atlantic Water Flow(417).swift */,
+				60108C802A580E3E003B2285 /* Number of Islands(200).swift */,
+				60108C822A580E65003B2285 /* Longest Consecutive Sequence(128).swift */,
+			);
+			path = Graph;
+			sourceTree = "<group>";
+		};
 		60403F2C2A560D770028F513 = {
 			isa = PBXGroup;
 			children = (
@@ -57,9 +118,29 @@
 		60403F372A560D770028F513 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				60403F3F2A560FD90028F513 /* Array */,
+				60108C6C2A580ABB003B2285 /* Dynamic Programming */,
+				60108C792A580DA1003B2285 /* Graph */,
 				60403F382A560D770028F513 /* main.swift */,
 			);
 			path = LeetCode;
+			sourceTree = "<group>";
+		};
+		60403F3F2A560FD90028F513 /* Array */ = {
+			isa = PBXGroup;
+			children = (
+				60403F402A560FE60028F513 /* TwoSum(1).swift */,
+				60403F422A561ADB0028F513 /* BestTimeToBuyAndSellStock(121).swift */,
+				60403F442A5622850028F513 /* ContainsDuplicate(217).swift */,
+				60108C5E2A57EFA5003B2285 /* Maximum Product Subarray(152).swift */,
+				60108C602A57F685003B2285 /* Product of Array Except Self(238).swift */,
+				60108C622A57FAA9003B2285 /* Maximum Subarray(53).swift */,
+				60108C642A57FEF4003B2285 /* Find Minimum in Rotated Sorted Array(153).swift */,
+				60108C662A5804CC003B2285 /* Search in Rotated Sorted Array(33).swift */,
+				60108C682A58057E003B2285 /* Container With Most Water(11).swift */,
+				60108C6A2A5808CE003B2285 /* 3Sum(15).swift */,
+			);
+			path = Array;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,7 +201,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60108C812A580E3E003B2285 /* Number of Islands(200).swift in Sources */,
+				60403F452A5622850028F513 /* ContainsDuplicate(217).swift in Sources */,
+				60108C722A580BD5003B2285 /* Coin Change(322).swift in Sources */,
+				60108C6B2A5808CE003B2285 /* 3Sum(15).swift in Sources */,
+				60108C7D2A580DE8003B2285 /* Course Schedule(207).swift in Sources */,
+				60108C7F2A580E12003B2285 /* Pacific Atlantic Water Flow(417).swift in Sources */,
+				60403F432A561ADB0028F513 /* BestTimeToBuyAndSellStock(121).swift in Sources */,
+				60108C702A580BA0003B2285 /* Climbing Stairs(70).swift in Sources */,
+				60108C632A57FAA9003B2285 /* Maximum Subarray(53).swift in Sources */,
+				60108C652A57FEF4003B2285 /* Find Minimum in Rotated Sorted Array(153).swift in Sources */,
+				60108C692A58057E003B2285 /* Container With Most Water(11).swift in Sources */,
+				60108C5F2A57EFA5003B2285 /* Maximum Product Subarray(152).swift in Sources */,
 				60403F392A560D770028F513 /* main.swift in Sources */,
+				60108C742A580C02003B2285 /* Longest Increasing Subsequence(300).swift in Sources */,
+				60108C762A580C45003B2285 /* Longest Common Subsequence(1143).swift in Sources */,
+				60108C7B2A580DB3003B2285 /* Clone Graph(133).swift in Sources */,
+				60108C672A5804CC003B2285 /* Search in Rotated Sorted Array(33).swift in Sources */,
+				60108C612A57F685003B2285 /* Product of Array Except Self(238).swift in Sources */,
+				60403F412A560FE60028F513 /* TwoSum(1).swift in Sources */,
+				60108C832A580E65003B2285 /* Longest Consecutive Sequence(128).swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
