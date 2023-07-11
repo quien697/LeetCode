@@ -9,14 +9,17 @@ import Foundation
 
 /**
  ** 322. Coin Change
- ** https://leetcode.com/problems/coin-change/description/
+ ** https://leetcode.com/problems/coin-change/
  */
 
 /// Time Complexity : O(NM)
 /// Space Complexity : S(M)
-/// N = coins.count, M = amount
 /// Algorithm : `Dynamic Programming`
 /// Recurrence : d[n] = min(d[n], d[i-n] + 1) where i > n
+/// Detail :
+/// N represents the length of coins (coins.count)
+/// M represents a total amount of money (amount)
+///
 func coinChange(_ coins: [Int], _ amount: Int) -> Int {
   if amount < 1 { return 0 }
   
