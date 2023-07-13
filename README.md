@@ -1,5 +1,16 @@
 # LeetCode
 
+###### String
+
+1. [3. Longest Substring Without Repeating Characters]()
+2. [5. Longest Palindromic Substring]()
+3. [20. Valid Parentheses]()
+4. [49. Group Anagrams]()
+5. [125. Valid Palindrome]()
+6. [242. Valid Anagram]()
+7. [424. Longest Repeating Character Replacement]()
+8. [647. Palindromic Substrings]()
+
 ###### Array
 
 1. [1. Two Sum](https://github.com/quien697/LeetCode/blob/main/LeetCode/Array/TwoSum(1).swift)
@@ -22,8 +33,8 @@
 
 ###### Graph
 
-1. [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+1. [128. Longest Consecutive Sequence](https://github.com/quien697/LeetCode/blob/main/LeetCode/Graph/Longest%20Consecutive%20Sequence(128).swift)
 2. [133. Clone Graph](https://github.com/quien697/LeetCode/blob/main/LeetCode/Graph/Clone%20Graph(133).swift)
-3. [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+3. [200. Number of Islands](https://github.com/quien697/LeetCode/blob/main/LeetCode/Graph/Number%20of%20Islands(200).swift)
 4. [207. Course Schedule](https://github.com/quien697/LeetCode/blob/main/LeetCode/Graph/Course%20Schedule(207).swift)
 5. [417. Pacific Atlantic Water Flow](https://github.com/quien697/LeetCode/blob/main/LeetCode/Graph/Pacific%20Atlantic%20Water%20Flow(417).swift)
