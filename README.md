@@ -22,6 +22,8 @@
 
 ###### Graph
 
-1. [133. Clone Graph](https://github.com/quien697/LeetCode/blob/main/LeetCode/Graph/Clone%20Graph(133).swift)
-2. [207. Course Schedule](https://github.com/quien697/LeetCode/blob/main/LeetCode/Graph/Course%20Schedule(207).swift)
-3. [417. Pacific Atlantic Water Flow](https://github.com/quien697/LeetCode/blob/main/LeetCode/Graph/Pacific%20Atlantic%20Water%20Flow(417).swift)
+1. [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+2. [133. Clone Graph](https://github.com/quien697/LeetCode/blob/main/LeetCode/Graph/Clone%20Graph(133).swift)
+3. [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+4. [207. Course Schedule](https://github.com/quien697/LeetCode/blob/main/LeetCode/Graph/Course%20Schedule(207).swift)
+5. [417. Pacific Atlantic Water Flow](https://github.com/quien697/LeetCode/blob/main/LeetCode/Graph/Pacific%20Atlantic%20Water%20Flow(417).swift)
