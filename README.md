@@ -26,14 +26,14 @@
 
 ###### Tree
 
-1. [98. Validate Binary Search Tree]()
-2. [100. Same Tree]()
-3. [102. Binary Tree Level Order Traversal]()
-4. [104. Maximum Depth of Binary Tree]()
-5. [105. Construct Binary Tree from Preorder and Inorder Traversal]()
-6. [226. Invert Binary Tree]()
-7. [230. Kth Smallest Element in a BST]()
-8. [572. Subtree of Another Tree]()
+1. [98. Validate Binary Search Tree](https://github.com/quien697/LeetCode/blob/main/LeetCode/Tree/Validate%20Binary%20Search%20Tree(98).swift)
+2. [100. Same Tree](https://github.com/quien697/LeetCode/blob/main/LeetCode/Tree/Same%20Tree(100).swift)
+3. [102. Binary Tree Level Order Traversal](https://github.com/quien697/LeetCode/blob/main/LeetCode/Tree/Binary%20Tree%20Level%20Order%20Traversal(102).swift)
+4. [104. Maximum Depth of Binary Tree](https://github.com/quien697/LeetCode/blob/main/LeetCode/Tree/Maximum%20Depth%20of%20Binary%20Tree(104).swift)
+5. [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/quien697/LeetCode/blob/main/LeetCode/Tree/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal(105).swift)
+6. [226. Invert Binary Tree](https://github.com/quien697/LeetCode/blob/main/LeetCode/Tree/Invert%20Binary%20Tree(226).swift)
+7. [230. Kth Smallest Element in a BST](https://github.com/quien697/LeetCode/blob/main/LeetCode/Tree/Kth%20Smallest%20Element%20in%20a%20BST(230).swift)
+8. [572. Subtree of Another Tree](https://github.com/quien697/LeetCode/blob/main/LeetCode/Tree/Subtree%20of%20Another%20Tree(572).swift)
 
 ###### Graph
 
