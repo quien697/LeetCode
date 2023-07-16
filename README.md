@@ -24,12 +24,16 @@
 9. [217. Contains Duplicate](https://github.com/quien697/LeetCode/blob/main/LeetCode/Array/ContainsDuplicate(217).swift)
 10. [238. Product of Array Except Self](https://github.com/quien697/LeetCode/blob/main/LeetCode/Array/Product%20of%20Array%20Except%20Self(238).swift)
 
-###### Dynamic Programming
+###### Tree
 
-1. [70. Climbing Stairs](https://github.com/quien697/LeetCode/blob/main/LeetCode/Dynamic%20Programming/Climbing%20Stairs(70).swift)
-2. [300. Longest Increasing Subsequence](https://github.com/quien697/LeetCode/blob/main/LeetCode/Dynamic%20Programming/Longest%20Increasing%20Subsequence(300).swift)
-3. [322. Coin Change](https://github.com/quien697/LeetCode/blob/main/LeetCode/Dynamic%20Programming/Coin%20Change(322).swift)
-4. [1143. Longest Common Subsequence](https://github.com/quien697/LeetCode/blob/main/LeetCode/Dynamic%20Programming/Longest%20Common%20Subsequence(1143).swift)
+1. [98. Validate Binary Search Tree]()
+2. [100. Same Tree]()
+3. [102. Binary Tree Level Order Traversal]()
+4. [104. Maximum Depth of Binary Tree]()
+5. [105. Construct Binary Tree from Preorder and Inorder Traversal]()
+6. [226. Invert Binary Tree]()
+7. [230. Kth Smallest Element in a BST]()
+8. [572. Subtree of Another Tree]()
 
 ###### Graph
 
@@ -39,10 +43,9 @@
 4. [207. Course Schedule](https://github.com/quien697/LeetCode/blob/main/LeetCode/Graph/Course%20Schedule(207).swift)
 5. [417. Pacific Atlantic Water Flow](https://github.com/quien697/LeetCode/blob/main/LeetCode/Graph/Pacific%20Atlantic%20Water%20Flow(417).swift)
 
-###### Tree
+###### Dynamic Programming
 
-1. [100. Same Tree]()
-2. [102. Binary Tree Level Order Traversal]()
-3. [104. Maximum Depth of Binary Tree]()
-4. [226. Invert Binary Tree]()
-5. [572. Subtree of Another Tree]()
+1. [70. Climbing Stairs](https://github.com/quien697/LeetCode/blob/main/LeetCode/Dynamic%20Programming/Climbing%20Stairs(70).swift)
+2. [300. Longest Increasing Subsequence](https://github.com/quien697/LeetCode/blob/main/LeetCode/Dynamic%20Programming/Longest%20Increasing%20Subsequence(300).swift)
+3. [322. Coin Change](https://github.com/quien697/LeetCode/blob/main/LeetCode/Dynamic%20Programming/Coin%20Change(322).swift)
+4. [1143. Longest Common Subsequence](https://github.com/quien697/LeetCode/blob/main/LeetCode/Dynamic%20Programming/Longest%20Common%20Subsequence(1143).swift)
