@@ -26,6 +26,9 @@
 		602F339B2A63295F00FBC001 /* Validate Binary Search Tree(98).swift in Sources */ = {isa = PBXBuildFile; fileRef = 602F339A2A63295F00FBC001 /* Validate Binary Search Tree(98).swift */; };
 		602F339D2A64948300FBC001 /* Construct Binary Tree from Preorder and Inorder Traversal(105).swift in Sources */ = {isa = PBXBuildFile; fileRef = 602F339C2A64948300FBC001 /* Construct Binary Tree from Preorder and Inorder Traversal(105).swift */; };
 		602F339F2A64A53F00FBC001 /* Kth Smallest Element in a BST(230).swift in Sources */ = {isa = PBXBuildFile; fileRef = 602F339E2A64A53F00FBC001 /* Kth Smallest Element in a BST(230).swift */; };
+		602F33A12A64AA5800FBC001 /* Implement Trie (Prefix Tree)(208).swift in Sources */ = {isa = PBXBuildFile; fileRef = 602F33A02A64AA5800FBC001 /* Implement Trie (Prefix Tree)(208).swift */; };
+		602F33A32A64AA9800FBC001 /* Lowest Common Ancestor of a Binary Search Tree(235).swift in Sources */ = {isa = PBXBuildFile; fileRef = 602F33A22A64AA9800FBC001 /* Lowest Common Ancestor of a Binary Search Tree(235).swift */; };
+		602F33A52A64AB4900FBC001 /* Design Add and Search Words Data Structure(211).swift in Sources */ = {isa = PBXBuildFile; fileRef = 602F33A42A64AB4900FBC001 /* Design Add and Search Words Data Structure(211).swift */; };
 		60403F392A560D770028F513 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60403F382A560D770028F513 /* main.swift */; };
 		60403F412A560FE60028F513 /* TwoSum(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60403F402A560FE60028F513 /* TwoSum(1).swift */; };
 		60403F432A561ADB0028F513 /* BestTimeToBuyAndSellStock(121).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60403F422A561ADB0028F513 /* BestTimeToBuyAndSellStock(121).swift */; };
@@ -77,6 +80,9 @@
 		602F339A2A63295F00FBC001 /* Validate Binary Search Tree(98).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Validate Binary Search Tree(98).swift"; sourceTree = "<group>"; };
 		602F339C2A64948300FBC001 /* Construct Binary Tree from Preorder and Inorder Traversal(105).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Construct Binary Tree from Preorder and Inorder Traversal(105).swift"; sourceTree = "<group>"; };
 		602F339E2A64A53F00FBC001 /* Kth Smallest Element in a BST(230).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Kth Smallest Element in a BST(230).swift"; sourceTree = "<group>"; };
+		602F33A02A64AA5800FBC001 /* Implement Trie (Prefix Tree)(208).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implement Trie (Prefix Tree)(208).swift"; sourceTree = "<group>"; };
+		602F33A22A64AA9800FBC001 /* Lowest Common Ancestor of a Binary Search Tree(235).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lowest Common Ancestor of a Binary Search Tree(235).swift"; sourceTree = "<group>"; };
+		602F33A42A64AB4900FBC001 /* Design Add and Search Words Data Structure(211).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Design Add and Search Words Data Structure(211).swift"; sourceTree = "<group>"; };
 		60403F352A560D770028F513 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		60403F382A560D770028F513 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		60403F402A560FE60028F513 /* TwoSum(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TwoSum(1).swift"; sourceTree = "<group>"; };
@@ -200,8 +206,11 @@
 				605A01DC2A62059200F24430 /* Binary Tree Level Order Traversal(102).swift */,
 				605A01DE2A62071E00F24430 /* Maximum Depth of Binary Tree(104).swift */,
 				602F339C2A64948300FBC001 /* Construct Binary Tree from Preorder and Inorder Traversal(105).swift */,
+				602F33A02A64AA5800FBC001 /* Implement Trie (Prefix Tree)(208).swift */,
+				602F33A42A64AB4900FBC001 /* Design Add and Search Words Data Structure(211).swift */,
 				605A01E02A62089B00F24430 /* Invert Binary Tree(226).swift */,
 				602F339E2A64A53F00FBC001 /* Kth Smallest Element in a BST(230).swift */,
+				602F33A22A64AA9800FBC001 /* Lowest Common Ancestor of a Binary Search Tree(235).swift */,
 				605A01E22A6209A500F24430 /* Subtree of Another Tree(572).swift */,
 			);
 			path = Tree;
@@ -290,12 +299,15 @@
 				602F339D2A64948300FBC001 /* Construct Binary Tree from Preorder and Inorder Traversal(105).swift in Sources */,
 				60108C5F2A57EFA5003B2285 /* Maximum Product Subarray(152).swift in Sources */,
 				60403F392A560D770028F513 /* main.swift in Sources */,
+				602F33A52A64AB4900FBC001 /* Design Add and Search Words Data Structure(211).swift in Sources */,
 				602F339B2A63295F00FBC001 /* Validate Binary Search Tree(98).swift in Sources */,
+				602F33A12A64AA5800FBC001 /* Implement Trie (Prefix Tree)(208).swift in Sources */,
 				60108C742A580C02003B2285 /* Longest Increasing Subsequence(300).swift in Sources */,
 				6076C53F2A60B6E600C83335 /* Palindromic Substrings(647).swift in Sources */,
 				605A01DF2A62071E00F24430 /* Maximum Depth of Binary Tree(104).swift in Sources */,
 				60108C762A580C45003B2285 /* Longest Common Subsequence(1143).swift in Sources */,
 				60108C7B2A580DB3003B2285 /* Clone Graph(133).swift in Sources */,
+				602F33A32A64AA9800FBC001 /* Lowest Common Ancestor of a Binary Search Tree(235).swift in Sources */,
 				60108C672A5804CC003B2285 /* Search in Rotated Sorted Array(33).swift in Sources */,
 				60108C612A57F685003B2285 /* Product of Array Except Self(238).swift in Sources */,
 				60403F412A560FE60028F513 /* TwoSum(1).swift in Sources */,
