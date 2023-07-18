@@ -63,8 +63,8 @@
 
 ###### Binary
 
-1. [190. Reverse Bits]()
-2. [191. Number of 1 Bits]()
-3. [268. Missing Number]()
-4. [338. Counting Bits]()
-5. [371. Sum of Two Integers]()
+1. [190. Reverse Bits](https://github.com/quien697/LeetCode/blob/main/LeetCode/Binary/Reverse%20Bits(190).swift)
+2. [191. Number of 1 Bits](https://github.com/quien697/LeetCode/blob/main/LeetCode/Binary/Number%20of%201%20Bits(191).swift)
+3. [268. Missing Number](https://github.com/quien697/LeetCode/blob/main/LeetCode/Binary/Missing%20Number(268).swift)
+4. [338. Counting Bits](https://github.com/quien697/LeetCode/blob/main/LeetCode/Binary/Counting%20Bits(338).swift)
+5. [371. Sum of Two Integers](https://github.com/quien697/LeetCode/blob/main/LeetCode/Binary/Sum%20of%20Two%20Integers(371).swift)
