@@ -36,6 +36,11 @@
 		602F33B02A66464F00FBC001 /* Reverse Linked List(206).swift in Sources */ = {isa = PBXBuildFile; fileRef = 602F33AF2A66464F00FBC001 /* Reverse Linked List(206).swift */; };
 		602F33B22A665A2C00FBC001 /* Remove Nth Node From End of List(19).swift in Sources */ = {isa = PBXBuildFile; fileRef = 602F33B12A665A2C00FBC001 /* Remove Nth Node From End of List(19).swift */; };
 		602F33B42A665D9C00FBC001 /* Reorder List(143).swift in Sources */ = {isa = PBXBuildFile; fileRef = 602F33B32A665D9C00FBC001 /* Reorder List(143).swift */; };
+		602F33B72A67316900FBC001 /* Reverse Bits(190).swift in Sources */ = {isa = PBXBuildFile; fileRef = 602F33B62A67316900FBC001 /* Reverse Bits(190).swift */; };
+		602F33B92A673DD900FBC001 /* Number of 1 Bits(191).swift in Sources */ = {isa = PBXBuildFile; fileRef = 602F33B82A673DD900FBC001 /* Number of 1 Bits(191).swift */; };
+		602F33BB2A673EF700FBC001 /* Missing Number(268).swift in Sources */ = {isa = PBXBuildFile; fileRef = 602F33BA2A673EF700FBC001 /* Missing Number(268).swift */; };
+		602F33BD2A67408100FBC001 /* Counting Bits(338).swift in Sources */ = {isa = PBXBuildFile; fileRef = 602F33BC2A67408100FBC001 /* Counting Bits(338).swift */; };
+		602F33BF2A67418600FBC001 /* Sum of Two Integers(371).swift in Sources */ = {isa = PBXBuildFile; fileRef = 602F33BE2A67418600FBC001 /* Sum of Two Integers(371).swift */; };
 		60403F392A560D770028F513 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60403F382A560D770028F513 /* main.swift */; };
 		60403F412A560FE60028F513 /* TwoSum(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60403F402A560FE60028F513 /* TwoSum(1).swift */; };
 		60403F432A561ADB0028F513 /* BestTimeToBuyAndSellStock(121).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60403F422A561ADB0028F513 /* BestTimeToBuyAndSellStock(121).swift */; };
@@ -97,6 +102,11 @@
 		602F33AF2A66464F00FBC001 /* Reverse Linked List(206).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse Linked List(206).swift"; sourceTree = "<group>"; };
 		602F33B12A665A2C00FBC001 /* Remove Nth Node From End of List(19).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove Nth Node From End of List(19).swift"; sourceTree = "<group>"; };
 		602F33B32A665D9C00FBC001 /* Reorder List(143).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reorder List(143).swift"; sourceTree = "<group>"; };
+		602F33B62A67316900FBC001 /* Reverse Bits(190).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse Bits(190).swift"; sourceTree = "<group>"; };
+		602F33B82A673DD900FBC001 /* Number of 1 Bits(191).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of 1 Bits(191).swift"; sourceTree = "<group>"; };
+		602F33BA2A673EF700FBC001 /* Missing Number(268).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Missing Number(268).swift"; sourceTree = "<group>"; };
+		602F33BC2A67408100FBC001 /* Counting Bits(338).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Counting Bits(338).swift"; sourceTree = "<group>"; };
+		602F33BE2A67418600FBC001 /* Sum of Two Integers(371).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of Two Integers(371).swift"; sourceTree = "<group>"; };
 		60403F352A560D770028F513 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		60403F382A560D770028F513 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		60403F402A560FE60028F513 /* TwoSum(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TwoSum(1).swift"; sourceTree = "<group>"; };
@@ -164,6 +174,18 @@
 			path = "Linked List";
 			sourceTree = "<group>";
 		};
+		602F33B52A67315100FBC001 /* Binary */ = {
+			isa = PBXGroup;
+			children = (
+				602F33B62A67316900FBC001 /* Reverse Bits(190).swift */,
+				602F33B82A673DD900FBC001 /* Number of 1 Bits(191).swift */,
+				602F33BA2A673EF700FBC001 /* Missing Number(268).swift */,
+				602F33BC2A67408100FBC001 /* Counting Bits(338).swift */,
+				602F33BE2A67418600FBC001 /* Sum of Two Integers(371).swift */,
+			);
+			path = Binary;
+			sourceTree = "<group>";
+		};
 		60403F2C2A560D770028F513 = {
 			isa = PBXGroup;
 			children = (
@@ -189,6 +211,7 @@
 				60108C792A580DA1003B2285 /* Graph */,
 				60108C6C2A580ABB003B2285 /* Dynamic Programming */,
 				602F33A62A65DE7C00FBC001 /* Linked List */,
+				602F33B52A67315100FBC001 /* Binary */,
 				60403F382A560D770028F513 /* main.swift */,
 			);
 			path = LeetCode;
@@ -312,6 +335,7 @@
 				60108C6B2A5808CE003B2285 /* 3Sum(15).swift in Sources */,
 				60108C7D2A580DE8003B2285 /* Course Schedule(207).swift in Sources */,
 				605A01DB2A62040C00F24430 /* Same Tree(100).swift in Sources */,
+				602F33BD2A67408100FBC001 /* Counting Bits(338).swift in Sources */,
 				6076C5392A60B66400C83335 /* Valid Palindrome(125).swift in Sources */,
 				602F33B22A665A2C00FBC001 /* Remove Nth Node From End of List(19).swift in Sources */,
 				605A01DD2A62059200F24430 /* Binary Tree Level Order Traversal(102).swift in Sources */,
@@ -331,17 +355,21 @@
 				602F339D2A64948300FBC001 /* Construct Binary Tree from Preorder and Inorder Traversal(105).swift in Sources */,
 				602F33B02A66464F00FBC001 /* Reverse Linked List(206).swift in Sources */,
 				60108C5F2A57EFA5003B2285 /* Maximum Product Subarray(152).swift in Sources */,
+				602F33B72A67316900FBC001 /* Reverse Bits(190).swift in Sources */,
 				60403F392A560D770028F513 /* main.swift in Sources */,
 				602F33A52A64AB4900FBC001 /* Design Add and Search Words Data Structure(211).swift in Sources */,
 				602F339B2A63295F00FBC001 /* Validate Binary Search Tree(98).swift in Sources */,
 				602F33A12A64AA5800FBC001 /* Implement Trie (Prefix Tree)(208).swift in Sources */,
 				60108C742A580C02003B2285 /* Longest Increasing Subsequence(300).swift in Sources */,
 				6076C53F2A60B6E600C83335 /* Palindromic Substrings(647).swift in Sources */,
+				602F33B92A673DD900FBC001 /* Number of 1 Bits(191).swift in Sources */,
 				605A01DF2A62071E00F24430 /* Maximum Depth of Binary Tree(104).swift in Sources */,
 				60108C762A580C45003B2285 /* Longest Common Subsequence(1143).swift in Sources */,
+				602F33BB2A673EF700FBC001 /* Missing Number(268).swift in Sources */,
 				60108C7B2A580DB3003B2285 /* Clone Graph(133).swift in Sources */,
 				602F33A32A64AA9800FBC001 /* Lowest Common Ancestor of a Binary Search Tree(235).swift in Sources */,
 				602F33B42A665D9C00FBC001 /* Reorder List(143).swift in Sources */,
+				602F33BF2A67418600FBC001 /* Sum of Two Integers(371).swift in Sources */,
 				602F33AC2A65E01A00FBC001 /* ListNode.swift in Sources */,
 				60108C672A5804CC003B2285 /* Search in Rotated Sorted Array(33).swift in Sources */,
 				60108C612A57F685003B2285 /* Product of Array Except Self(238).swift in Sources */,

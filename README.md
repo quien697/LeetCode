@@ -60,3 +60,11 @@
 3. [141. Linked List Cycle](https://github.com/quien697/LeetCode/blob/main/LeetCode/Linked%20List/Linked%20List%20Cycle(141).swift)
 4. [143. Reorder List](https://github.com/quien697/LeetCode/blob/main/LeetCode/Linked%20List/Reorder%20List(143).swift)
 5. [206. Reverse Linked List](https://github.com/quien697/LeetCode/blob/main/LeetCode/Linked%20List/Reverse%20Linked%20List(206).swift)
+
+###### Binary
+
+1. [190. Reverse Bits]()
+2. [191. Number of 1 Bits]()
+3. [268. Missing Number]()
+4. [338. Counting Bits]()
+5. [371. Sum of Two Integers]()
