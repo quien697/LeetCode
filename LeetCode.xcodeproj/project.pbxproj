@@ -58,6 +58,10 @@
 		6076C53B2A60B68600C83335 /* Valid Anagram(242).swift in Sources */ = {isa = PBXBuildFile; fileRef = 6076C53A2A60B68600C83335 /* Valid Anagram(242).swift */; };
 		6076C53D2A60B6AF00C83335 /* Longest Repeating Character Replacement(424).swift in Sources */ = {isa = PBXBuildFile; fileRef = 6076C53C2A60B6AF00C83335 /* Longest Repeating Character Replacement(424).swift */; };
 		6076C53F2A60B6E600C83335 /* Palindromic Substrings(647).swift in Sources */ = {isa = PBXBuildFile; fileRef = 6076C53E2A60B6E600C83335 /* Palindromic Substrings(647).swift */; };
+		60F4B6832A68972E0044FE56 /* Set Matrix Zeroes(73).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F4B6822A68972E0044FE56 /* Set Matrix Zeroes(73).swift */; };
+		60F4B6852A6A460E0044FE56 /* Spiral Matrix(54).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F4B6842A6A460D0044FE56 /* Spiral Matrix(54).swift */; };
+		60F4B6872A6A4EB40044FE56 /* Rotate Image(48).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F4B6862A6A4EB40044FE56 /* Rotate Image(48).swift */; };
+		60F4B6892A6B98F50044FE56 /* Word Search(79).swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F4B6882A6B98F50044FE56 /* Word Search(79).swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -125,6 +129,10 @@
 		6076C53A2A60B68600C83335 /* Valid Anagram(242).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Valid Anagram(242).swift"; sourceTree = "<group>"; };
 		6076C53C2A60B6AF00C83335 /* Longest Repeating Character Replacement(424).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Longest Repeating Character Replacement(424).swift"; sourceTree = "<group>"; };
 		6076C53E2A60B6E600C83335 /* Palindromic Substrings(647).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Palindromic Substrings(647).swift"; sourceTree = "<group>"; };
+		60F4B6822A68972E0044FE56 /* Set Matrix Zeroes(73).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Set Matrix Zeroes(73).swift"; sourceTree = "<group>"; };
+		60F4B6842A6A460D0044FE56 /* Spiral Matrix(54).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Spiral Matrix(54).swift"; sourceTree = "<group>"; };
+		60F4B6862A6A4EB40044FE56 /* Rotate Image(48).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rotate Image(48).swift"; sourceTree = "<group>"; };
+		60F4B6882A6B98F50044FE56 /* Word Search(79).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Word Search(79).swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -211,6 +219,7 @@
 				60108C792A580DA1003B2285 /* Graph */,
 				60108C6C2A580ABB003B2285 /* Dynamic Programming */,
 				602F33A62A65DE7C00FBC001 /* Linked List */,
+				60F4B6812A68971A0044FE56 /* Matrix */,
 				602F33B52A67315100FBC001 /* Binary */,
 				60403F382A560D770028F513 /* main.swift */,
 			);
@@ -266,6 +275,17 @@
 				605A01E22A6209A500F24430 /* Subtree of Another Tree(572).swift */,
 			);
 			path = Tree;
+			sourceTree = "<group>";
+		};
+		60F4B6812A68971A0044FE56 /* Matrix */ = {
+			isa = PBXGroup;
+			children = (
+				60F4B6822A68972E0044FE56 /* Set Matrix Zeroes(73).swift */,
+				60F4B6842A6A460D0044FE56 /* Spiral Matrix(54).swift */,
+				60F4B6862A6A4EB40044FE56 /* Rotate Image(48).swift */,
+				60F4B6882A6B98F50044FE56 /* Word Search(79).swift */,
+			);
+			path = Matrix;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -334,6 +354,7 @@
 				602F33AE2A65E6A600FBC001 /* Linked List Cycle(141).swift in Sources */,
 				60108C6B2A5808CE003B2285 /* 3Sum(15).swift in Sources */,
 				60108C7D2A580DE8003B2285 /* Course Schedule(207).swift in Sources */,
+				60F4B6872A6A4EB40044FE56 /* Rotate Image(48).swift in Sources */,
 				605A01DB2A62040C00F24430 /* Same Tree(100).swift in Sources */,
 				602F33BD2A67408100FBC001 /* Counting Bits(338).swift in Sources */,
 				6076C5392A60B66400C83335 /* Valid Palindrome(125).swift in Sources */,
@@ -356,10 +377,13 @@
 				602F33B02A66464F00FBC001 /* Reverse Linked List(206).swift in Sources */,
 				60108C5F2A57EFA5003B2285 /* Maximum Product Subarray(152).swift in Sources */,
 				602F33B72A67316900FBC001 /* Reverse Bits(190).swift in Sources */,
+				60F4B6892A6B98F50044FE56 /* Word Search(79).swift in Sources */,
 				60403F392A560D770028F513 /* main.swift in Sources */,
 				602F33A52A64AB4900FBC001 /* Design Add and Search Words Data Structure(211).swift in Sources */,
 				602F339B2A63295F00FBC001 /* Validate Binary Search Tree(98).swift in Sources */,
+				60F4B6852A6A460E0044FE56 /* Spiral Matrix(54).swift in Sources */,
 				602F33A12A64AA5800FBC001 /* Implement Trie (Prefix Tree)(208).swift in Sources */,
+				60F4B6832A68972E0044FE56 /* Set Matrix Zeroes(73).swift in Sources */,
 				60108C742A580C02003B2285 /* Longest Increasing Subsequence(300).swift in Sources */,
 				6076C53F2A60B6E600C83335 /* Palindromic Substrings(647).swift in Sources */,
 				602F33B92A673DD900FBC001 /* Number of 1 Bits(191).swift in Sources */,

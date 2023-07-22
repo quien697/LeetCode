@@ -61,6 +61,13 @@
 4. [143. Reorder List](https://github.com/quien697/LeetCode/blob/main/LeetCode/Linked%20List/Reorder%20List(143).swift)
 5. [206. Reverse Linked List](https://github.com/quien697/LeetCode/blob/main/LeetCode/Linked%20List/Reverse%20Linked%20List(206).swift)
 
+###### Matrix
+
+1. [48. Rotate Image]()
+1. [54. Spiral Matrix]()
+1. [73. Set Matrix Zeroes]()
+1. [79. Word Search]()
+
 ###### Binary
 
 1. [190. Reverse Bits](https://github.com/quien697/LeetCode/blob/main/LeetCode/Binary/Reverse%20Bits(190).swift)
