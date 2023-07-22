@@ -63,10 +63,10 @@
 
 ###### Matrix
 
-1. [48. Rotate Image]()
-1. [54. Spiral Matrix]()
-1. [73. Set Matrix Zeroes]()
-1. [79. Word Search]()
+1. [48. Rotate Image](https://github.com/quien697/LeetCode/blob/main/LeetCode/Matrix/Rotate%20Image(48).swift)
+1. [54. Spiral Matrix](https://github.com/quien697/LeetCode/blob/main/LeetCode/Matrix/Spiral%20Matrix(54).swift)
+1. [73. Set Matrix Zeroes](https://github.com/quien697/LeetCode/blob/main/LeetCode/Matrix/Set%20Matrix%20Zeroes(73).swift)
+1. [79. Word Search](https://github.com/quien697/LeetCode/blob/main/LeetCode/Matrix/Word%20Search(79).swift)
 
 ###### Binary
 
